@@ -97,4 +97,116 @@ Next steps:
 
 ## Lessons
 
-1. [first_lesson](./first_lesson/)
+1. ### [first_lesson](./first_lesson/)
+
+1. ### [unit1_lessons](./unit1_lessons/)
+
+  Unit 1 lessons (lessons 02 to 06)
+
+  You can find unit1 lessons at the end of this post. Before you get started:
+  
+
+  **Ensure that you have done these**:
+
+
+  Your computers are setup correctly (py.test, sources root etc.) and the end to end flow is working properly as described in @28
+  Read on how to do these lessons effectively - it is not just getting the lessons to pass, it is about building your personal skill: @27 and @28
+  
+
+  **Unit 1 Goals**:
+
+  >At the end of this unit, you should have met the following goals.
+
+  
+
+  * Learn builtin data types like numbers and strings
+  * Learn how to use builtin data structures in python - lists, dicts(hashtables), tuples and sets. When do you use which data structure? 
+  * Learn to use some of the builtin functions in python using online and console help
+  * Learn to use the Pycharm console (Alt + P)
+  * Learn to use the Python visualizer
+  * Learn to ask and answer questions in the forums.  Will post some guidance on this shortly.
+  * Python comes with a very powerful set of features and libraries which makes it easy to get a lot of work done very fast. This is at the heart of rapid application development - using available features, frameworks and libraries to get your work done without reinventing things like lists, sets and hashtables.
+
+  Your job is to learn how to use all of them to solve problems efficiently (both in terms of runtime performance and in terms of how much time it takes to write the code :) ).
+
+  Once you finish the lessons, review this post and ensure that you have met the direct and incidental goals (tools, asking questions) mentioned above.
+
+  Unit1 lessons: 
+
+  This folder contains all the unit1 lessons. Download it and copy into your c:\pythoncourse folder (DON'T CREATE SUB FOLDERS) and work through the lessons as described.
+
+1. ### [unit1_assignments](./unit1_assignments/)
+
+  **Instructions to get started**:
+
+  * Download and copy the files into your pythoncourse folder (DONT CREATE SUBFOLDERS)
+  * Read the notes and documentation carefully
+  * Follow the constraints for each problem. This is important even if you know python already. The assignments are given to develop a certain style of thinking, so write code according to constraints.
+  * Once you finish your assignments, review the goals for unit1 and see if you have met them! If not, do additional tasks on your own to meet them.
+
+1. ### [unit2_lessons](./unit2_lessons/)
+
+  This unit will explore cool stuff like control flow, truth, functions and exceptions. Do these after finishing unit1 assignments.
+
+  **Before you start**:
+
+  * Review unit1 goals in @32 and see if you have met them, if not, do spend time on filling up the gaps.
+  * Don't panic and rush through unit1 if you started late.
+  * If you started late, go through all the posts starting with the welcome post in order and do them in order. DON'T DO THINGS OUT OF ORDER OR YOU WILL FACE UNNECESSARY PROBLEMS.
+
+  **Goals for unit2**:
+
+
+  * Learn how to use control flow statements in python (if, for, while, ..)
+  * Learn to define and use python functions.
+  * Understand various forms of parameters and arguments.
+  * Learn notions of equality and identity in python
+  * Learn notions of truth equivalence in python
+  * Learn exceptions in python
+  * Understand scopes of variables in python
+  * Increase proficiency in use of the shell, python tutor and the forums
+  * Get better at researching information on the web.
+
+  **Unit 2 lessons**
+
+  copy these into your pythoncourse folder unit2_lessons. Do not create sub folders.
+  Spend sufficient time and dig deep into these lessons. Assignments will follow.
+
+  If you find any issues in the lessons, do feel free to bring them up in the #forum channel.
+
+  Happy coding and learning :).
+
+1. ### [unit3](./unit3/)
+
+  #### unit 3 - debugging
+
+  Initially we used to give this unit on debugging pretty late in the course. However, I pushed it up as it can really help you progress better if you pick up this skill.
+
+  In Units 1 - 2 we have have covered some of the basic aspects of python programming. A good understanding of those units is essential to write good code. However, there are few orthogonal skills without which you will not go far. 
+
+  These skills deal with mindsets and knowledge of tools to make you a productive programmer. One of these topics is debugging and this unit deals with that. Debugging is probably the MOST IMPORTANT TOPIC in this whole course.
+
+  I recommend you to start this unit even if you are stuck on previous assignments as what you learn here can help you debug your previous units problems faster. 
+
+  While it is never discussed as a first class concept in most classes, for a new developer proficiency in debugging can make all the difference in how fast you grow in your job.  This is because:
+
+  * As a new programmer you will make a lot of mistakes
+  * If you cannot debug fast, you will get blocked and block your team because your work is not ready
+  * If you repeatedly ask for help for many issues, you will lose reputation as a developer
+  * The more time you spend debugging, the less time you have to learn other things on the job like design, tools, product space, customer behavior etc. which are important for your growth.
+  * So a vicious cycle develops and it is frustrating to come out of it.
+  
+
+  In contrast, good troubleshooters/debuggers who can debug all kinds of problems like installation errors, ide errors, customer problems, their own code, other programmers code etc. are highly respected and shine through in the early stages of their career.
+
+  In many companies, it is not uncommon to start new developers on "outstanding bugs/customer issues" as a way to bring them up to speed on the teams application/product. If you are weak in this area, you are off to a bad start!
+
+  So take this unit seriously and do it well.  
+
+  Once you learn how to use the debugger and start developing a debugging mindset, you are just a breakpoint away from solving most of your infinite loops and other problems :-)
+
+  There are many useful ways of debugging and each lesson introduces one method/tool. You are expected to read the comments and try to fix the buggy code using the method described. Try to use these tools on all issues that you hit everyday and overtime you will become good debuggers.
+
+  There are no separate assignments, the lessons themselves are the assignments.
+
+  Enjoy and master this unit!
