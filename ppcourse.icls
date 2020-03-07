@@ -1,0 +1,35 @@
+<scheme name="ppcourse" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2017-11-03T20:29:45</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.2.4.0.0</property>
+    <property name="modified">2017-11-03T20:53:35</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="PY.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="207108" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="207108" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.STRING.B">
+      <value>
+        <option name="FOREGROUND" value="207108" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="PY.STRING.U">
+      <value>
+        <option name="FOREGROUND" value="207108" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
