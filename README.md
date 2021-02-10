@@ -1,4 +1,4 @@
-# admin-Pthon-Learner
+# admin-Python-Learner
 
 Python-Learner repository, to learn explore things in Python, DataStructures and Algorithms
 
