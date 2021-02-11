@@ -13,20 +13,20 @@ notes = """
 """
 
 def test_string_type():
-    assert __ == type("Hello World").__name__
-    assert __ == isinstance("Hello World", str)
+    assert 'str' == type("Hello World").__name__
+    assert True == isinstance("Hello World", str)
 
 def test_single_quoted_strings_are_strings():
-    assert __ == isinstance('Hello World', str)
+    assert True == isinstance('Hello World', str)
 
 def test_double_quoted_strings_are_strings():
-    assert __ == isinstance("Hello World", str)
+    assert True == isinstance("Hello World", str)
 
 def test_triple_quoted_strings_are_strings():
-    assert __ == isinstance("""Hello World""", str)
+    assert True == isinstance("""Hello World""", str)
 
 def test_triple_single_quoted_strings_are_strings():
-    assert __ == isinstance('''Hello World''', str)
+    assert True == isinstance('''Hello World''', str)
 
 def test_raw_strings_are_strings():
     # raw string literals are specified using the r before the first quote
